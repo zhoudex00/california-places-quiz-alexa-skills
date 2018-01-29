@@ -1,3 +1,5 @@
+//Last updated Jan 2018 by Dexin Zhou
+
 "use strict";
 var APP_ID = undefined;  // TODO replace with your app ID (OPTIONAL).
 
@@ -19,7 +21,7 @@ var languageString = {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
             "GAME_NAME" : "California places quiz", // Be sure to change this for your skill.
-            "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the phrase, it is, and number of the answer. " +
+            "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the phrase, it is, and the number of the answer. " +
             "For example, say, it is, one, two, three, or four. To start a new game at any time, say, start game. ",
             "REPEAT_QUESTION_MESSAGE": "To repeat the last question, say, repeat. ",
             "ASK_MESSAGE_START": "Would you like to start playing?",

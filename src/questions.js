@@ -11,12 +11,11 @@ module.exports = {
                 "San Diego",
                 "San Francisco",
                 "Los Angeles",
-                "Santa Monica"
-                
+                "Santa Monica" 
             ]
         },
         {
-            "Where is the world-famous Dolby Theater?": [
+            "Where is the world-famous Dolby Theater located?": [
                 "Hollywood",
 				"Oakland",
                 "Santa Monica",
@@ -25,12 +24,10 @@ module.exports = {
             ]
         },
         {
-            "Where does the Golden Gate Bridge connects?": [
-                 "San Francisco and Marin county",
-				 "San Francisco and Oakland",
-                "San Diego and Coronado",
-                "Palo Alto and Fermont"
-               
+            "What two places does the Golden Gate Bridge connects?": [
+                "San Francisco and Marin county",
+				"San Francisco and Oakland",
+                "San Diego and Coronado"
             ]
         },
         {
@@ -39,8 +36,7 @@ module.exports = {
 				"the state capitol of California",
                 "Hollywood movies",
                 "the largest city in U.S."
-                
-		        ]
+		    ]
         },
 		 {
             "Where is the capitol of California?": [
@@ -50,30 +46,27 @@ module.exports = {
                 "Oakland"
             ]
         },
-		    {
+		{
             "Where is Yosemite National Park?": [
-                "It is in California, east of San Francisco",
-				"It is in California, east of Los Angeles",
-                "It is in Wyoming, Idaho, and Montana",
-                "It is in California, north of Redding"
-                				
+                "Northern California",
+				"Southern California",
+                "Wyoming, Idaho, and Montana"	
             ]
         },
-			 {
-            "Which is not in California?": [
+			{
+            "Which is not located in California?": [
 			    "Grand Canyon national park",
                 "Joshua Tree national park",
 				"Channel Islands national park",
                 "Mojave desert"
-
             ]
         },
         {
-            "Which highway is best known for its beautiful beach scenary along the route?": [
+            "Which highway is best known for its beautiful scenery along the coast of Pacific Ocean?": [
                 "CA-1",
                 "Interstate 5",
                 "Interstate 15",
-				"CA-2"
+				"US-66"
             ]
         }
     ],
@@ -83,12 +76,11 @@ module.exports = {
                 "San Diego",
                 "San Francisco",
                 "Los Angeles",
-                "Santa Monica"
-                
+                "Santa Monica" 
             ]
         },
         {
-            "Where is the world-famous Dolby Theater?": [
+            "Where is the world-famous Dolby Theater located?": [
                 "Hollywood",
 				"Oakland",
                 "Santa Monica",
@@ -97,12 +89,10 @@ module.exports = {
             ]
         },
         {
-            "Where does the Golden Gate Bridge connects?": [
-                 "San Francisco and Marin county",
-				 "San Francisco and Oakland",
-                "San Diego and Coronado",
-                "Palo Alto and Fermont"
-               
+            "What two places does the Golden Gate Bridge connects?": [
+                "San Francisco and Marin county",
+				"San Francisco and Oakland",
+                "San Diego and Coronado"
             ]
         },
         {
@@ -111,8 +101,7 @@ module.exports = {
 				"the state capitol of California",
                 "Hollywood movies",
                 "the largest city in U.S."
-                
-		        ]
+		    ]
         },
 		 {
             "Where is the capitol of California?": [
@@ -122,30 +111,27 @@ module.exports = {
                 "Oakland"
             ]
         },
-		    {
+		{
             "Where is Yosemite National Park?": [
-                "It is in California, east of San Francisco",
-				"It is in California, east of Los Angeles",
-                "It is in Wyoming, Idaho, and Montana",
-                "It is in California, north of Redding"
-                				
+                "Northern California",
+				"Southern California",
+                "Wyoming, Idaho, and Montana"	
             ]
         },
-			 {
-            "Which is not in California?": [
+			{
+            "Which is not located in California?": [
 			    "Grand Canyon national park",
                 "Joshua Tree national park",
 				"Channel Islands national park",
                 "Mojave desert"
-
             ]
         },
         {
-            "Which highway is best known for its beautiful beach scenary along the route?": [
+            "Which highway is best known for its beautiful scenery along the coast of Pacific Ocean?": [
                 "CA-1",
                 "Interstate 5",
                 "Interstate 15",
-				"CA-2"
+				"US-66"
             ]
         }
     ],
